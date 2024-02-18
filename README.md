@@ -1,5 +1,5 @@
-## Ker-NelBot
-Ker-NelBot is a Discord bot written in C# using the DSharpPlus library. It is designed to be a simple bot that can be easily modified to suit your needs. It is also themed as a Valorant bot after my favorite agent, Kay/O.
+## Discord Bot
+This is a Discord bot written in C# using the DSharpPlus library. It is designed to be a simple bot that can be easily modified to suit your needs. 
 
 ## How to set it up
 1) Clone the repository.
